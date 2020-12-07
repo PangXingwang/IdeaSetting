@@ -1,0 +1,29 @@
+<scheme name="Default copy" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2019-05-15T11:10:50</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2018.3.6.0.0</property>
+    <property name="modified">2019-05-15T11:11:30</property>
+    <property name="originalScheme">_@user_Default</property>
+  </metaInfo>
+  <attributes>
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="2f8722" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="2f8722" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="21f0ac" />
+        <option name="ERROR_STRIPE_COLOR" value="baa8ff" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

@@ -1,0 +1,19 @@
+<templateSet group="userDefine">
+  <template name="*" value="*&#10; * @param $param$&#10; * @return $return$&#10; **/" shortcut="TAB" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="param" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
+    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pvt" value="@Test&#10;public void test() {&#10;&#10;&#10;}" description="生成测试方法" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ci" value="console.info();" description="生成js控制台打印" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

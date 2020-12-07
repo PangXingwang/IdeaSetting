@@ -1,0 +1,15 @@
+<application>
+  <component name="MyBatisCodeHelper">
+    <option name="profile">
+      <Profile>
+        <option name="convertByteOrShortToInt" value="true" />
+        <option name="userMacSet">
+          <set>
+            <option value="00-09-0F-AA-00-01" />
+          </set>
+        </option>
+        <option name="valid" value="true" />
+      </Profile>
+    </option>
+  </component>
+</application>

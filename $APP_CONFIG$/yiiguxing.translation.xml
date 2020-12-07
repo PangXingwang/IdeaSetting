@@ -1,0 +1,75 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Chaos" />
+      <item value="Json Util" />
+      <item value="下行" />
+      <item value="上行" />
+      <item value="密钥" />
+      <item value="handle" />
+      <item value="处理" />
+      <item value="场景" />
+      <item value="PRIVATE KEY" />
+      <item value="完整" />
+      <item value="PUBLIC KEY" />
+      <item value="access" />
+      <item value="出库单" />
+      <item value="upload stock" />
+      <item value="信息上传" />
+      <item value="参数" />
+      <item value="Raw use of parameterized class" />
+      <item value="探查" />
+      <item value="对接" />
+      <item value="出库" />
+      <item value="constant" />
+      <item value="没有查询到出库单" />
+      <item value="没有查询到信息" />
+      <item value="直辖市" />
+      <item value="complete" />
+      <item value="完成" />
+      <item value="destination" />
+      <item value="有效期" />
+      <item value="批号" />
+      <item value="结算价" />
+      <item value="成本价" />
+      <item value="原价" />
+      <item value="数量" />
+      <item value="出货随行单" />
+      <item value="出库随行单" />
+      <item value="限购批量导入" />
+      <item value="批量限购导入" />
+      <item value="批量导入限购" />
+      <item value="存在" />
+      <item value="清空限购" />
+      <item value="清空" />
+      <item value="限购导入" />
+      <item value="第三" />
+      <item value="INVOKEINTERFACE" />
+      <item value="INVOKEDYNAMIC" />
+      <item value="finish" />
+      <item value="结束" />
+      <item value="类别" />
+      <item value="分类" />
+      <item value="原" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="106" />
+        <entry key="ENGLISH" value="107" />
+        <entry key="FRENCH" value="1" />
+        <entry key="KURDISH" value="1" />
+        <entry key="ROMANIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20200617000498076" />
+      </app-key>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="phoneticFontFamily" value="Consolas" />
+    <option name="primaryFontFamily" value="Consolas" />
+  </component>
+</application>
