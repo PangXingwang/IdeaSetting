@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="初始化" />
       <item value="handle" />
       <item value="处理" />
       <item value="Maucherat" />
@@ -50,11 +51,10 @@
       <item value="finish" />
       <item value="结束" />
       <item value="类别" />
-      <item value="分类" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="108" />
+        <entry key="CHINESE" value="109" />
         <entry key="ENGLISH" value="109" />
         <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="1" />
