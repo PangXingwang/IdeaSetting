@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="采购" />
+      <item value="数量" />
       <item value="初始化" />
       <item value="handle" />
       <item value="处理" />
@@ -35,7 +37,6 @@
       <item value="结算价" />
       <item value="成本价" />
       <item value="原价" />
-      <item value="数量" />
       <item value="出货随行单" />
       <item value="出库随行单" />
       <item value="限购批量导入" />
@@ -50,12 +51,11 @@
       <item value="INVOKEDYNAMIC" />
       <item value="finish" />
       <item value="结束" />
-      <item value="类别" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="109" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="CHINESE" value="112" />
+        <entry key="ENGLISH" value="112" />
         <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
