@@ -1,18 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="退款单" />
-      <item value="采购" />
-      <item value="数量" />
-      <item value="初始化" />
-      <item value="handle" />
-      <item value="处理" />
-      <item value="Maucherat" />
       <item value="Chaos" />
       <item value="Json Util" />
       <item value="下行" />
       <item value="上行" />
       <item value="密钥" />
+      <item value="handle" />
+      <item value="处理" />
       <item value="场景" />
       <item value="PRIVATE KEY" />
       <item value="完整" />
@@ -38,6 +33,7 @@
       <item value="结算价" />
       <item value="成本价" />
       <item value="原价" />
+      <item value="数量" />
       <item value="出货随行单" />
       <item value="出库随行单" />
       <item value="限购批量导入" />
@@ -51,11 +47,15 @@
       <item value="INVOKEINTERFACE" />
       <item value="INVOKEDYNAMIC" />
       <item value="finish" />
+      <item value="结束" />
+      <item value="类别" />
+      <item value="分类" />
+      <item value="原" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="CHINESE" value="106" />
+        <entry key="ENGLISH" value="107" />
         <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
