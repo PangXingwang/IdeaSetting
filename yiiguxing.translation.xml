@@ -1,13 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="handle" />
+      <item value="处理" />
       <item value="Chaos" />
       <item value="Json Util" />
       <item value="下行" />
       <item value="上行" />
       <item value="密钥" />
-      <item value="handle" />
-      <item value="处理" />
       <item value="场景" />
       <item value="PRIVATE KEY" />
       <item value="完整" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="108" />
+        <entry key="ENGLISH" value="109" />
         <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
