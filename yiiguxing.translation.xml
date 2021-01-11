@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="不提交" />
       <item value="存在" />
       <item value="Instead" />
       <item value="代替下单" />
@@ -50,12 +51,11 @@
       <item value="结算价" />
       <item value="成本价" />
       <item value="原价" />
-      <item value="数量" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="121" />
-        <entry key="ENGLISH" value="121" />
+        <entry key="CHINESE" value="122" />
+        <entry key="ENGLISH" value="122" />
         <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -63,7 +63,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1608537428067" />
+    <option name="lastTrimTime" value="1610349041272" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
